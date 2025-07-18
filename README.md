@@ -1,1 +1,1 @@
-# Flappy_Bird_Game_Using_NEAT_Python
+This project is a clone of the classic Flappy Bird game, developed using Pygame and enhanced with NeuroEvolution of Augmenting Topologies (NEAT) in Python. I build this game in an attempt to learn basics of Game Development using Pygame and also train AI to play the game. A fun and insightful way to dive into both Pygame and NEAT!
